@@ -1,4 +1,4 @@
-# Проект 1. Анализ вакансий на hh.ru.
+# Анализ вакансий на hh.ru.
 
 ## Оглавление 
 [1. Описание проекта](https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/README.md#Опиасние-проекта)
